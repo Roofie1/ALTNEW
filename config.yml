@@ -18,7 +18,7 @@ startup:
 
 discord:
 # Manage your discord settings
-  botToken: "" # Don't forget to enable intents (https://youtu.be/pzxVzEHk4ww?t=35)
+  botToken: "OTg2MDQ3MjU2NzU3MTYyMDA1.GIUo6a.UaXFk9ayEqwwTRnrckPireWP5ngIEb8Vy74kxQ" # Don't forget to enable intents (https://youtu.be/pzxVzEHk4ww?t=35)
   prefix: "!"
 
 format:
@@ -31,7 +31,7 @@ format:
 minecraft:
 # Minecraft settings
   auth: "mojang" # Pick either mojang/microsoft
-  serverIP: "play.crystaldev.co"
+  serverIP: "mchub.com"
   serverPort: "25565"
   version: "1.8.9"
   joinCommand: "/ruby"
@@ -41,4 +41,28 @@ minecraft:
 
 alts:
 # This can be an infinite amount of alts, remember to fill it out like this "- AltEmail@email.com:Password123!"
-- AltEmail@email.com:Password123!
+- "acebryk@gmail.com:potato69"
+- "lowryjean@hotmail.com:Shrine_69"
+- "mlemonnier@live.fr:selmonnier07"
+- "darkbluemeow@hotmail.com:purple@14cats"
+- "williamdu31@gmail.com:T31w96g97."
+- "consi_home@web.de:Costas0208."
+- "billycomette@ymail.com:Ashleylee99"
+- "haydenparker177@gmail.com:Owatnow3!$"
+- "clonekiller445@gmail.com:denis445"
+- "randywidener@gmail.com:Phoenix93*"
+- "aydan.swanson12@gmail.com:Steelersfan1"
+- "nonseeagle@gmx.de:Wenzel2001!"
+- "socialmediastuff462@gmail.com:Battlefront2"
+- "thomasvdweerd@gmail.com:Gvvvveenendaal1!"
+- "m-v20@hotmail.com:A7z8e9mv69!"
+- "julesnobbe2000@gmail.com:jules123"
+- "brandonmines01@gmail.com:E4500pepper"
+- "pianomaneli009@gmail.com:123Elisean"
+- "svnkys@gmail.com:sevenkeys77"
+- "wallis.k.austin@gmail.com:Ragun##1"
+- "mjcamarda@outlook.com:Mike242003$"
+- "julian.guertner@gmx.de:balou0306"
+- "allen.mccoig@gmail.com:Skater1996"
+- "tanguy.savineau@gmail.com:Hw2O7264223bZ27"
+- "jaehnalimx@hanmail.net:jh920608"
